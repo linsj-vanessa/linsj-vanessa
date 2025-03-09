@@ -15,10 +15,10 @@
 - 
 
 ### 📊 GitHub Stats:
-![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linsj-vanessa&show_icons=true&theme=dark)
 
 ### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?linsj-vanessa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&theme=dark)
 
 📫 **Contact me:**  
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:contato.vanessalins@gmail.com)
