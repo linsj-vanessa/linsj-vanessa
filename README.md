@@ -12,13 +12,13 @@
 - **Languages**: Java, JavaScript, TypeScript, Python
 - **Frontend**: React.js, Angular, HTML, CSS
 - **Backend**: Node.js, Express, Spring Boot
-- 
+ 
 
 ### 📊 GitHub Stats:
 ![Vanessa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=linsj-vanessa&theme=dark)
 
 ### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=linsj-vanessa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&theme=dark)
 
 
 📫 **Contact me:**  
