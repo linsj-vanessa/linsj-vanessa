@@ -14,18 +14,15 @@
 - **Backend**: Node.js, Express, Spring Boot
  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=linsj-vanessa&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=linsj-vanessa&theme=tokyonight" />
-</p>
+<div align="left">
 
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=linsj-vanessa&show_icons=true&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 
-## 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&theme=tokyonight" />
-</p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=linsj-vanessa&hide_border=true&background=0d1117&stroke=8f00ff&ring=8f00ff&fire=8f00ff&currStreakLabel=ffffff" />
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+
+</div>
 
 
 
