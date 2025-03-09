@@ -15,10 +15,11 @@
 - 
 
 ### 📊 GitHub Stats:
-![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=linsj-vanessa&show_icons=true&theme=dark)
+![Vanessa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=linsj-vanessa&theme=dark)
 
 ### 🔥 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&theme=dark)
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=linsj-vanessa&layout=compact&theme=dark)
+
 
 📫 **Contact me:**  
 [![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:contato.vanessalins@gmail.com)
