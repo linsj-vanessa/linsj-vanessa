@@ -1,26 +1,20 @@
-# Hi There! 👋
+# Heey! 👋
+[![Email](https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail&logoColor=red)](mailto:contato.vanessalins@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/linsvanessa/)
+[![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=black)](https://github.com/linsj-vanessa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/linsvanessa/))
+## Meu nome é Vanessa Lins ✨
 
-## My name is Vanessa Lins✨
-
-🔹 **Software Developer**  
-🔹 **Passionate about Backend Development**  
-🔹 **Currently learning Java & Spring Boot**  
-
-### 🚀 Technologies I work with:
-- **Languages**: Java, JavaScript, TypeScript, Python
-- **Frontend**: React.js, Angular, HTML, CSS
-- **Backend**: Node.js, Express, Spring Boot
- 
-
-<div align="left">
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-
-</div>
+🔹 **Estudante de Engenharia de Software e Dev**  
+🔹 **Apaixonada por Automações e RPA (Robotic Process Automation)**  
+🔹 **Experiência com Google Apps Script para automação no Google Workspace**  
+🔹 **Focada em criar soluções para otimizar processos administrativos e fiscais**
 
 
 
-📫 **Contact me:**  
-[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:contato.vanessalins@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linsj-vanessa&layout=compact&theme=radical)
+
+
+
+
+
